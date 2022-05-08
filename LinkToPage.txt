@@ -1,2 +1,0 @@
-View the homepage here :
-https://htmlpreview.github.io/?https://github.com/matezolt/Intro/blob/master/MyWebsite/ClickToView.html
