@@ -95,6 +95,13 @@ p {
   margin: 20px 0;
   font-weight: 300;
 }
+.contentBox p {
+  font-size: 1em;
+  margin: 10px 0;
+  font-weight: 300;
+  min-width: 400px;
+  min-height: 200px;
+}
 .btn {
   background: #0c8aff;
   color: #fff;
