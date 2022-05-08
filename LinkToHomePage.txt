@@ -1,2 +1,2 @@
 View the homepage here :
-https://htmlpreview.github.io/?https://github.com/matezolt/mz/blob/master/pics/ClickToView2.html
+https://htmlpreview.github.io/?https://github.com/matezolt/homepage/blob/master/pics/ClickToView2.html
